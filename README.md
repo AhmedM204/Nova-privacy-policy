@@ -17,6 +17,8 @@ Here you will find the key documents that govern the use of our services and exp
 *   ### ⚖️ [Terms & Conditions](./TERMS_AND_CONDITIONS.md)
     *   **Purpose:** Outlines the rules, rights, and responsibilities you agree to when using the NovaED application.
     *   **Last Updated:** 11/17/2025
+*   ### 🗑️ [Data Deletion Instructions](./DATA_DELETION.md)
+    *   **Purpose:** Step-by-step guide on how to permanently delete your account and data.
 
 ---
 
